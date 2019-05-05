@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>邮件系统配置文件</comment>
+
+    <entry key="EMAIL_HOST">smtp.qq.com</entry>
+
+    <entry key="EMAIL_HOST_PORT">25</entry>
+
+    <entry key="EMAIL_USER_NAME">1037596981@qq.com</entry>
+
+    <entry key="EMAIL_PASSWORD">fofwfpsauapabcfd</entry>
+
+    <entry key="EMAIL_SENDER">1037596981@qq.com</entry>
+</properties>
